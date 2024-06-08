@@ -15,6 +15,12 @@ This React application provides a robust signup form with comprehensive validati
 
 This project utilizes JSON data for countries and cities provided by [all-countries-and-cities-json](https://github.com/russ666/all-countries-and-cities-json) (countries.json).
 
+## Screenshots
+
+![This is Sign up form](images/signup form.png)
+![Errors if fields are empty or incorrectly filled](images/errors .png)
+![Showing details after signup correctly](images/after signup page.png)
+
 ## Getting Started
 
 ### Prerequisites
