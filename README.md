@@ -30,7 +30,11 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/guddu69/signUp-Form.git
 cd signUp-Form
+```
 
-npm install #install node modules
-npm start #start application
+Running the application:
+
+```
+npm install
+npm start
 ```
