@@ -17,9 +17,9 @@ This project utilizes JSON data for countries and cities provided by [all-countr
 
 ## Screenshots
 
-![This is Sign up form](images/signup form.png)
-![Errors if fields are empty or incorrectly filled](images/errors .png)
-![Showing details after signup correctly](images/after signup page.png)
+![This is Sign up form](images/signup_form.png)
+![Errors if fields are empty or incorrectly filled](images/errors.png)
+![Showing details after signup correctly](images/after_signup_page.png)
 
 ## Getting Started
 
