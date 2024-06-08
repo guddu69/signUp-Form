@@ -17,11 +17,8 @@ This project utilizes JSON data for countries and cities provided by [all-countr
 
 ## Screenshots
 
-Sign up page:
 <img src="images/signup_form.png" width="300">
-Validation errors:
 <img src="images/errors.png" width="300">
-Detail display page:
 <img src="images/after_signup_page.png" width="300">
 
 ## Getting Started
