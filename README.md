@@ -17,8 +17,7 @@ This project utilizes JSON data for countries and cities provided by [all-countr
 
 ## Screenshots
 
-<img src="images/signup_form.png" width="600">
-<img src="images/errors.png" width="600">
+<img src="images/signup_form.png" width="300"> <img src="images/errors.png" width="300">
 <img src="images/after_signup_page.png" width="300">
 
 ## Getting Started
