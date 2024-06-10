@@ -15,6 +15,10 @@ This React application provides a robust signup form with comprehensive validati
 
 This project utilizes JSON data for countries and cities provided by [all-countries-and-cities-json](https://github.com/russ666/all-countries-and-cities-json) (countries.json).
 
+## Deployment
+
+This application is deployed [here](https://validation-signup-form.netlify.app)
+
 ## Screenshots
 
 <img src="images/signup_form.png" width="300">
